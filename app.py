@@ -1,4 +1,4 @@
 import os
 
 def some_function():
-	pass 
+	return 0 
